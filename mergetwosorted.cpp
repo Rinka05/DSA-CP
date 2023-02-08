@@ -47,6 +47,8 @@ cout << endl;
    
 }
 
+// for finding intersection we can take set 
+
 
 
 int main(){
